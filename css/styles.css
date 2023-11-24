@@ -21,11 +21,12 @@ body {
 .card-images {
   position: relative;
   display: inline-block;
+  width: 100%
 }
 
 .card-img {
   display: block;
-  max-width: 438px;
+  max-width: 100%;
   border-radius: 10px;
 }
 
