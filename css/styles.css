@@ -68,7 +68,7 @@ body {
   border-top: 1px solid #F2F5F9;
 }
 
-.card-avatar {
+.card-avatar img {
   height: auto;
   width: 50px;
   box-sizing: border-box;
