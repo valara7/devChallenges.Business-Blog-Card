@@ -60,7 +60,6 @@ body {
 
 .card-author-details {
   display: flex;
-  flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
   padding: 20px 30px;
@@ -68,7 +67,7 @@ body {
   border-top: 1px solid #F2F5F9;
 }
 
-.card-avatar img {
+.card-avatar {
   height: auto;
   width: 50px;
   box-sizing: border-box;
@@ -82,7 +81,6 @@ body {
   color: #677489;
   margin: 0;
   margin-left: 10px;
-  
 }
 
 .card-author-position {
